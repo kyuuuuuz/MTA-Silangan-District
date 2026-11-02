@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Register Your Account | Silangan District</title>
+<style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      min-height: 100vh;
+      margin: 0;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+
+    main {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+
+    .register-panel {
+      width: 100%;
+      max-width: 384px;
+      padding: 32px;
+      border-radius: 12px;
+      background: black;
+      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.4);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+
+    p {
+      margin: 8px 0 24px;
+      color: #cbd5e1;
+    }
+
+    input,
+    button {
+      width: 100%;
+      margin-top: 12px;
+      padding: 12px 16px;
+      border: 0;
+      border-radius: 8px;
+      font-size: 16px;
+    }
+
+    input {
+      background: #1e293b;
+      color: white;
+    }
+
+    input::placeholder {
+      color: #94a3b8;
+    }
+
+    button {
+      background: white;
+      color: black;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: rgb(31, 30, 30);
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <div class="register-panel">
+      <h1>Create account</h1>
+      <p>Register to join the server.</p>
+
+      <form onsubmit="event.preventDefault()">
+        <input type="text" placeholder="Username">
+        <input type="password" placeholder="Password">
+        <button type="submit">Register</button>
+      </form>
+    </div>
+  </main>
+</body>
+</html>

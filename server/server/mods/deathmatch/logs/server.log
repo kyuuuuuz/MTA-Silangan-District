@@ -1,0 +1,464 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-11-01 15:59:50] File 'settings.xml' not present, creating new node.
+[2026-11-01 15:59:53] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2026-11-01 15:59:54] Resources: 202 loaded, 0 failed
+[2026-11-01 15:59:54] Starting resources...
+[2026-11-01 15:59:54] Admin access list successfully updated 
+[2026-11-01 15:59:54] INFO: Admin added 610 missing rights
+[2026-11-01 15:59:54] Server minclientversion is now 1.5.9-9.20957.0
+[2026-11-01 15:59:54] Server minclientversion is now 1.6.0-9.22676
+[2026-11-01 15:59:54] Server minclientversion is now 1.6.0-9.22815
+[2026-11-01 15:59:54] Gamemode 'play' started.
+[2026-11-01 15:59:54] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-11-01 15:59:54] WARNING: <owner_email_address> not set
+[2026-11-01 15:59:54] Server started and is ready to accept connections!
+[2026-11-01 15:59:54] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-11-01 15:59:54] Type 'help' for a list of commands.
+[2026-11-01 16:00:07] Querying MTA master server... success! (Auto detected IP:180.190.172.92)
+[2026-11-01 16:00:35] Server minclientversion is now 1.6.0-9.24109.0
+[2026-11-01 16:00:35] CONNECT: Kyuu_Katzuki connected (IP: 127.0.0.1  Serial: B62BECF2BBA85F39AF529D789E7AEA24  Version: 1.6.0-9.24149.0)
+[2026-11-01 16:00:36] JOIN: Kyuu_Katzuki joined the game (IP: 127.0.0.1)
+[2026-11-01 16:01:07] CHAT: Kyuu_Katzuki : aaaa
+[2026-11-01 16:02:12] QUIT: Kyuu_Katzuki left the game [Quit] 
+[2026-11-01 16:02:33] Server stopped!
+[2026-11-01 16:02:33] Stopping resources.............................
+[2026-11-01 16:02:33] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-11-01 16:10:43] Compacting accounts database 'internal.db' ...
+[2026-11-01 16:10:43] Resources: 1 loaded, 0 failed
+[2026-11-01 16:10:43] Compacting database 'registry.db' ...
+[2026-11-01 16:10:43] Starting resources...
+[2026-11-01 16:10:43] SCRIPT ERROR: players\players.lua:2: ')' expected near '('
+[2026-11-01 16:10:43] ERROR: Loading script failed: players\players.lua:2: ')' expected near '('
+[2026-11-01 16:10:43] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-11-01 16:10:43] WARNING: <owner_email_address> not set
+[2026-11-01 16:10:43] Server started and is ready to accept connections!
+[2026-11-01 16:10:43] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-11-01 16:10:43] Type 'help' for a list of commands.
+[2026-11-01 16:10:46] Querying MTA master server... success! (Auto detected IP:180.190.172.92)
+[2026-11-01 16:11:55] Server minclientversion is now 1.6.0-9.24109.0
+[2026-11-01 16:11:55] CONNECT: Kyuu_Katzuki connected (IP: 127.0.0.1  Serial: B62BECF2BBA85F39AF529D789E7AEA24  Version: 1.6.0-9.24149.0)
+[2026-11-01 16:11:56] JOIN: Kyuu_Katzuki joined the game (IP: 127.0.0.1)
+[2026-11-01 16:12:50] Server stopped!
+[2026-11-01 16:12:50] Stopping resources....
+[2026-11-01 16:12:50] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-11-01 16:12:58] Resources: 1 loaded, 0 failed
+[2026-11-01 16:12:58] Starting resources...
+[2026-11-01 16:12:58] SCRIPT ERROR: players\players.lua:2: ')' expected near '('
+[2026-11-01 16:12:58] ERROR: Loading script failed: players\players.lua:2: ')' expected near '('
+[2026-11-01 16:12:58] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-11-01 16:12:58] WARNING: <owner_email_address> not set
+[2026-11-01 16:12:58] Server started and is ready to accept connections!
+[2026-11-01 16:12:58] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-11-01 16:12:58] Type 'help' for a list of commands.
+[2026-11-01 16:13:00] Querying MTA master server... success! (Auto detected IP:180.190.172.92)
+[2026-11-01 16:13:10] Server minclientversion is now 1.6.0-9.24109.0
+[2026-11-01 16:13:10] CONNECT: Kyuu_Katzuki connected (IP: 127.0.0.1  Serial: B62BECF2BBA85F39AF529D789E7AEA24  Version: 1.6.0-9.24149.0)
+[2026-11-01 16:13:10] JOIN: Kyuu_Katzuki joined the game (IP: 127.0.0.1)
+[2026-11-01 16:15:28] QUIT: Kyuu_Katzuki left the game [Quit] 
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-11-01 16:42:36] Resources: 1 loaded, 0 failed
+[2026-11-01 16:42:36] Starting resources...
+[2026-11-01 16:42:36] SCRIPT ERROR: players\players.lua:2: ')' expected near '('
+[2026-11-01 16:42:36] ERROR: Loading script failed: players\players.lua:2: ')' expected near '('
+[2026-11-01 16:42:36] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-11-01 16:42:36] WARNING: <owner_email_address> not set
+[2026-11-01 16:42:36] Server started and is ready to accept connections!
+[2026-11-01 16:42:36] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-11-01 16:42:36] Type 'help' for a list of commands.
+[2026-11-01 16:42:37] Querying MTA master server... success! (Auto detected IP:180.190.172.92)
+[2026-11-01 16:42:39] Server minclientversion is now 1.6.0-9.24109.0
+[2026-11-01 16:42:39] CONNECT: Kyuu_Katzuki connected (IP: 127.0.0.1  Serial: B62BECF2BBA85F39AF529D789E7AEA24  Version: 1.6.0-9.24149.0)
+[2026-11-01 16:42:40] JOIN: Kyuu_Katzuki joined the game (IP: 127.0.0.1)
+[2026-11-01 16:42:50] CHAT: Kyuu_Katzuki: tttttttt
+[2026-11-01 16:44:51] Server stopped!
+[2026-11-01 16:44:52] Stopping resources....
+[2026-11-01 16:44:52] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-11-01 16:45:45] Resources: 1 loaded, 0 failed
+[2026-11-01 16:45:45] Starting resources...
+[2026-11-01 16:45:45] SCRIPT ERROR: players\players.lua:2: ')' expected near '('
+[2026-11-01 16:45:45] ERROR: Loading script failed: players\players.lua:2: ')' expected near '('
+[2026-11-01 16:45:45] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-11-01 16:45:45] WARNING: <owner_email_address> not set
+[2026-11-01 16:45:45] Server started and is ready to accept connections!
+[2026-11-01 16:45:45] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-11-01 16:45:45] Type 'help' for a list of commands.
+[2026-11-01 16:45:47] Querying MTA master server... success! (Auto detected IP:180.190.172.92)
+[2026-11-01 16:46:04] Server minclientversion is now 1.6.0-9.24109.0
+[2026-11-01 16:46:04] CONNECT: Kyuu_Katzuki connected (IP: 127.0.0.1  Serial: B62BECF2BBA85F39AF529D789E7AEA24  Version: 1.6.0-9.24149.0)
+[2026-11-01 16:46:04] JOIN: Kyuu_Katzuki joined the game (IP: 127.0.0.1)
+[2026-11-01 16:48:59] Server stopped!
+[2026-11-01 16:48:59] Stopping resources....
+[2026-11-01 16:48:59] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-11-01 16:49:06] Resources: 1 loaded, 0 failed
+[2026-11-01 16:49:06] Starting resources....
+[2026-11-01 16:49:06] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-11-01 16:49:06] WARNING: <owner_email_address> not set
+[2026-11-01 16:49:06] Server started and is ready to accept connections!
+[2026-11-01 16:49:06] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-11-01 16:49:06] Type 'help' for a list of commands.
+[2026-11-01 16:49:08] Querying MTA master server... success! (Auto detected IP:180.190.172.92)
+[2026-11-01 16:49:19] Server minclientversion is now 1.6.0-9.24109.0
+[2026-11-01 16:49:19] CONNECT: Kyuu_Katzuki connected (IP: 127.0.0.1  Serial: B62BECF2BBA85F39AF529D789E7AEA24  Version: 1.6.0-9.24149.0)
+[2026-11-01 16:49:19] JOIN: Kyuu_Katzuki joined the game (IP: 127.0.0.1)
+[2026-11-01 16:57:26] New resource 'vehicles' loaded
+[2026-11-01 16:57:26] Resources: 2 loaded, 0 failed
+[2026-11-01 16:57:47] start: Requested by Console
+[2026-11-01 16:57:47] Starting vehicles
+[2026-11-01 16:57:47] start: Resource 'vehicles' started
+[2026-11-01 17:03:13] stop: Requested by Console
+[2026-11-01 17:03:13] stop: Resource 'vehicles' stopping...
+[2026-11-01 17:03:13] Stopping vehicles
+[2026-11-01 17:03:25] start: Requested by Console
+[2026-11-01 17:03:25] Resource 'vehicles' changed, reloading and starting
+[2026-11-01 17:03:25] Starting vehicles
+[2026-11-01 17:03:25] WARNING: vehicles\vehicles.lua:4: Bad argument @ 'addCommandHandler' [Expected function at argument 2, got nil]
+[2026-11-01 17:03:25] WARNING: vehicles\vehicles.lua:5: Bad argument @ 'addCommandHandler' [Expected function at argument 2, got nil]
+[2026-11-01 17:03:25] start: Resource 'vehicles' started
+[2026-11-01 17:06:59] stop: Requested by Console
+[2026-11-01 17:06:59] stop: Resource 'vehicles' stopping...
+[2026-11-01 17:06:59] Stopping vehicles
+[2026-11-01 17:07:07] start: Requested by Console
+[2026-11-01 17:07:07] Resource 'vehicles' changed, reloading and starting
+[2026-11-01 17:07:07] Starting vehicles
+[2026-11-01 17:07:07] WARNING: vehicles\vehicles.lua:4: Bad argument @ 'addCommandHandler' [Expected function at argument 2, got nil]
+[2026-11-01 17:07:07] WARNING: vehicles\vehicles.lua:5: Bad argument @ 'addCommandHandler' [Expected function at argument 2, got nil]
+[2026-11-01 17:07:07] WARNING: vehicles\vehicles.lua:6: Bad argument @ 'addCommandHandler' [Expected function at argument 2, got nil]
+[2026-11-01 17:07:07] start: Resource 'vehicles' started
+[2026-11-01 17:07:54] stop: Requested by Console
+[2026-11-01 17:07:54] stop: Resource 'vehicle' could not be found
+[2026-11-01 17:07:59] stop: Requested by Console
+[2026-11-01 17:07:59] stop: Resource 'vehicles' stopping...
+[2026-11-01 17:07:59] Stopping vehicles
+[2026-11-01 17:08:06] start: Requested by Console
+[2026-11-01 17:08:06] Resource 'vehicles' changed, reloading and starting
+[2026-11-01 17:08:06] Starting vehicles
+[2026-11-01 17:08:06] start: Resource 'vehicles' started
+[2026-11-01 17:08:39] * Syntax: restart <resource1> <resource2> ...
+[2026-11-01 17:11:29] CHAT: Kyuu_Katzuki: ttt
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-11-01 20:21:10] Resources: 2 loaded, 0 failed
+[2026-11-01 20:21:10] Starting resources....
+[2026-11-01 20:21:10] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-11-01 20:21:10] WARNING: <owner_email_address> not set
+[2026-11-01 20:21:10] Server started and is ready to accept connections!
+[2026-11-01 20:21:10] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-11-01 20:21:10] Type 'help' for a list of commands.
+[2026-11-01 20:21:16] Querying MTA master server... success! (Auto detected IP:180.190.172.92)
+[2026-11-01 20:21:23] Server minclientversion is now 1.6.0-9.24109.0
+[2026-11-01 20:21:23] CONNECT: Kyuu_Katzuki connected (IP: 127.0.0.1  Serial: B62BECF2BBA85F39AF529D789E7AEA24  Version: 1.6.0-9.24149.0)
+[2026-11-01 20:21:24] JOIN: Kyuu_Katzuki joined the game (IP: 127.0.0.1)
+[2026-11-01 20:26:30] stop: Requested by Console
+[2026-11-01 20:26:30] stop: Resource 'vehicles' is not running
+[2026-11-01 20:26:36] start: Requested by Console
+[2026-11-01 20:26:36] Resource 'vehicles' changed, reloading and starting
+[2026-11-01 20:26:36] Starting vehicles
+[2026-11-01 20:26:36] start: Resource 'vehicles' started
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-11-01 20:39:25] Resources: 2 loaded, 0 failed
+[2026-11-01 20:39:25] Starting resources....
+[2026-11-01 20:39:25] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-11-01 20:39:25] WARNING: <owner_email_address> not set
+[2026-11-01 20:39:25] Server started and is ready to accept connections!
+[2026-11-01 20:39:25] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-11-01 20:39:25] Type 'help' for a list of commands.
+[2026-11-01 20:39:27] Querying MTA master server... success! (Auto detected IP:180.190.172.92)
+[2026-11-01 20:39:51] Server minclientversion is now 1.6.0-9.24109.0
+[2026-11-01 20:39:51] CONNECT: Kyuu_Katzuki connected (IP: 127.0.0.1  Serial: B62BECF2BBA85F39AF529D789E7AEA24  Version: 1.6.0-9.24149.0)
+[2026-11-01 20:39:51] JOIN: Kyuu_Katzuki joined the game (IP: 127.0.0.1)
+[2026-11-01 20:41:39] start: Requested by Console
+[2026-11-01 20:41:39] start: Resource 'register' could not be found
+[2026-11-01 20:43:23] New resource 'register' loaded
+[2026-11-01 20:43:23] Resources: 3 loaded, 0 failed
+[2026-11-01 20:43:28] start: Requested by Console
+[2026-11-01 20:43:28] Starting register
+[2026-11-01 20:43:28] start: Resource 'register' started
+[2026-11-01 20:45:12] stop: Requested by Console
+[2026-11-01 20:45:12] stop: Resource 'register' stopping...
+[2026-11-01 20:45:12] Stopping register
+[2026-11-01 20:45:16] start: Requested by Console
+[2026-11-01 20:45:16] Resource 'register' changed, reloading and starting
+[2026-11-01 20:45:16] Starting register
+[2026-11-01 20:45:16] start: Resource 'register' started
+[2026-11-01 20:45:45] stop: Requested by Console
+[2026-11-01 20:45:45] stop: Resource 'register' stopping...
+[2026-11-01 20:45:45] Stopping register
+[2026-11-01 20:45:49] start: Requested by Console
+[2026-11-01 20:45:49] Resource 'register' changed, reloading and starting
+[2026-11-01 20:45:49] Starting register
+[2026-11-01 20:45:49] start: Resource 'register' started
+[2026-11-01 20:47:53] stop: Requested by Console
+[2026-11-01 20:47:53] stop: Resource 'register' stopping...
+[2026-11-01 20:47:53] Stopping register
+[2026-11-01 20:47:57] start: Requested by Console
+[2026-11-01 20:47:57] Resource 'register' changed, reloading and starting
+[2026-11-01 20:47:57] Starting register
+[2026-11-01 20:47:57] start: Resource 'register' started
+[2026-11-01 20:48:35] start: Requested by Console
+[2026-11-01 20:48:35] start: Resource 'register' is already running
+[2026-11-01 20:48:42] stop: Requested by Console
+[2026-11-01 20:48:42] stop: Resource 'register' stopping...
+[2026-11-01 20:48:42] Stopping register
+[2026-11-01 20:48:47] start: Requested by Console
+[2026-11-01 20:48:47] Resource 'register' changed, reloading and starting
+[2026-11-01 20:48:47] Starting register
+[2026-11-01 20:48:47] start: Resource 'register' started
+[2026-11-01 20:54:06] stop: Requested by Console
+[2026-11-01 20:54:06] stop: Resource 'register' stopping...
+[2026-11-01 20:54:06] Stopping register
+[2026-11-01 20:54:11] start: Requested by Console
+[2026-11-01 20:54:11] Resource 'register' changed, reloading and starting
+[2026-11-01 20:54:11] Starting register
+[2026-11-01 20:54:11] start: Resource 'register' started
+[2026-11-01 20:56:38] stop: Requested by Console
+[2026-11-01 20:56:38] stop: Resource 'register' stopping...
+[2026-11-01 20:56:38] Stopping register
+[2026-11-01 20:56:42] start: Requested by Console
+[2026-11-01 20:56:42] Resource 'register' changed, reloading and starting
+[2026-11-01 20:56:42] Starting register
+[2026-11-01 20:56:42] start: Resource 'register' started
+[2026-11-01 20:58:09] stop: Requested by Console
+[2026-11-01 20:58:09] stop: Resource 'register' stopping...
+[2026-11-01 20:58:09] Stopping register
+[2026-11-01 20:58:14] start: Requested by Console
+[2026-11-01 20:58:14] Resource 'register' changed, reloading and starting
+[2026-11-01 20:58:14] Starting register
+[2026-11-01 20:58:14] start: Resource 'register' started
+[2026-11-01 20:58:54] stop: Requested by Console
+[2026-11-01 20:58:54] stop: Resource 'register' stopping...
+[2026-11-01 20:58:54] Stopping register
+[2026-11-01 20:59:01] start: Requested by Console
+[2026-11-01 20:59:01] Resource 'register' changed, reloading and starting
+[2026-11-01 20:59:01] Starting register
+[2026-11-01 20:59:01] start: Resource 'register' started
+[2026-11-01 20:59:38] stop: Requested by Console
+[2026-11-01 20:59:38] stop: Resource 'register' stopping...
+[2026-11-01 20:59:38] Stopping register
+[2026-11-01 20:59:42] start: Requested by Console
+[2026-11-01 20:59:42] Resource 'register' changed, reloading and starting
+[2026-11-01 20:59:42] Starting register
+[2026-11-01 20:59:42] start: Resource 'register' started
+[2026-11-01 21:00:19] stop: Requested by Console
+[2026-11-01 21:00:19] stop: Resource 'register' stopping...
+[2026-11-01 21:00:19] Stopping register
+[2026-11-01 21:00:23] start: Requested by Console
+[2026-11-01 21:00:23] Resource 'register' changed, reloading and starting
+[2026-11-01 21:00:23] Starting register
+[2026-11-01 21:00:23] start: Resource 'register' started
+[2026-11-01 21:01:28] stop: Requested by Console
+[2026-11-01 21:01:28] stop: Resource 'register' stopping...
+[2026-11-01 21:01:28] Stopping register
+[2026-11-01 21:01:33] start: Requested by Console
+[2026-11-01 21:01:33] Resource 'register' changed, reloading and starting
+[2026-11-01 21:01:33] Starting register
+[2026-11-01 21:01:33] start: Resource 'register' started
+[2026-11-01 21:01:58] stop: Requested by Console
+[2026-11-01 21:01:58] stop: Resource 'register' stopping...
+[2026-11-01 21:01:58] Stopping register
+[2026-11-01 21:02:02] start: Requested by Console
+[2026-11-01 21:02:02] Resource 'register' changed, reloading and starting
+[2026-11-01 21:02:02] Starting register
+[2026-11-01 21:02:02] start: Resource 'register' started
+[2026-11-01 21:03:39] stop: Requested by Console
+[2026-11-01 21:03:39] stop: Resource 'register' stopping...
+[2026-11-01 21:03:39] Stopping register
+[2026-11-01 21:03:43] start: Requested by Console
+[2026-11-01 21:03:43] Resource 'register' changed, reloading and starting
+[2026-11-01 21:03:43] Starting register
+[2026-11-01 21:03:43] start: Resource 'register' started
+[2026-11-01 21:04:35] stop: Requested by Console
+[2026-11-01 21:04:35] stop: Resource 'register' stopping...
+[2026-11-01 21:04:35] Stopping register
+[2026-11-01 21:04:40] start: Requested by Console
+[2026-11-01 21:04:40] Resource 'register' changed, reloading and starting
+[2026-11-01 21:04:40] Starting register
+[2026-11-01 21:04:40] start: Resource 'register' started
+[2026-11-01 21:06:00] stop: Requested by Console
+[2026-11-01 21:06:00] stop: Resource 'register' stopping...
+[2026-11-01 21:06:00] Stopping register
+[2026-11-01 21:06:05] start: Requested by Console
+[2026-11-01 21:06:05] Resource 'register' changed, reloading and starting
+[2026-11-01 21:06:05] Starting register
+[2026-11-01 21:06:05] start: Resource 'register' started
+[2026-11-01 21:19:17] stop: Requested by Console
+[2026-11-01 21:19:17] stop: Resource 'vehicles' is not running
+[2026-11-01 21:19:22] start: Requested by Console
+[2026-11-01 21:19:22] Resource 'vehicles' changed, reloading and starting
+[2026-11-01 21:19:22] Starting vehicles
+[2026-11-01 21:19:22] start: Resource 'vehicles' started
+[2026-11-01 21:19:53] stop: Requested by Console
+[2026-11-01 21:19:53] stop: Resource 'register' stopping...
+[2026-11-01 21:19:53] Stopping register
+[2026-11-01 21:20:49] WARNING: vehicles\vehicles.lua:5: Bad argument @ 'createVehicle' [Expected number, got non-convertible string]
+[2026-11-01 21:22:05] QUIT: Kyuu_Katzuki left the game [Quit] 
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-11-02 09:23:26] ERROR: Couldn't find script(s) players.lua for resource players
+[2026-11-02 09:23:26] Loading of resource 'players' failed
+[2026-11-02 09:23:26] ERROR: Couldn't parse meta file for resource 'register' [Line 4: Error reading end tag.]
+[2026-11-02 09:23:26] Loading of resource 'register' failed
+[2026-11-02 09:23:26] ERROR: Couldn't parse meta file for resource 'vehicles' [Line 3: Error reading end tag.]
+[2026-11-02 09:23:26] Loading of resource 'vehicles' failed
+[2026-11-02 09:23:26] ERROR: Problem with resource: players; Couldn't find script(s) players.lua for resource players
+[2026-11-02 09:23:26] ERROR: Problem with resource: register; Couldn't parse meta file for resource 'register' [Line 4: Error reading end tag.]
+[2026-11-02 09:23:26] ERROR: Problem with resource: vehicles; Couldn't parse meta file for resource 'vehicles' [Line 3: Error reading end tag.]
+[2026-11-02 09:23:26] Resources: 0 loaded, 3 failed
+[2026-11-02 09:23:26] Starting resources...
+[2026-11-02 09:23:26] ERROR: Unable to start resource players; Couldn't find script(s) players.lua for resource players
+[2026-11-02 09:23:26] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-11-02 09:23:26] WARNING: <owner_email_address> not set
+[2026-11-02 09:23:26] Server started and is ready to accept connections!
+[2026-11-02 09:23:26] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-11-02 09:23:26] Type 'help' for a list of commands.
+[2026-11-02 09:23:27] Querying MTA master server... success! (Auto detected IP:180.190.172.92)
+[2026-11-02 09:24:17] Resource 'players' changed, reloading
+[2026-11-02 09:24:17] ERROR: Couldn't find script(s) players.lua for resource players
+[2026-11-02 09:24:17] Loading of resource 'players' failed
+[2026-11-02 09:24:17] Resource 'register' changed, reloading
+[2026-11-02 09:24:17] New resource 'register' loaded
+[2026-11-02 09:24:17] Resource 'vehicles' changed, reloading
+[2026-11-02 09:24:17] ERROR: Couldn't find script(s) vehicles.lua for resource vehicles
+[2026-11-02 09:24:17] Loading of resource 'vehicles' failed
+[2026-11-02 09:24:17] ERROR: Problem with resource: players; Couldn't find script(s) players.lua for resource players
+[2026-11-02 09:24:17] ERROR: Problem with resource: vehicles; Couldn't find script(s) vehicles.lua for resource vehicles
+[2026-11-02 09:24:17] Resources: 1 loaded, 2 failed
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..code/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-11-02 09:25:26] Resources: 3 loaded, 0 failed
+[2026-11-02 09:25:26] Starting resources....
+[2026-11-02 09:25:26] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-11-02 09:25:26] WARNING: <owner_email_address> not set
+[2026-11-02 09:25:26] Server started and is ready to accept connections!
+[2026-11-02 09:25:26] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-11-02 09:25:26] Type 'help' for a list of commands.
+[2026-11-02 09:25:27] Querying MTA master server... success! (Auto detected IP:180.190.172.92)
+[2026-11-02 09:26:25] Server minclientversion is now 1.6.0-9.24109.0
+[2026-11-02 09:26:25] CONNECT: Kyuu_Katzuki connected (IP: 127.0.0.1  Serial: B62BECF2BBA85F39AF529D789E7AEA24  Version: 1.6.0-9.24149.0)
+[2026-11-02 09:26:26] JOIN: Kyuu_Katzuki joined the game (IP: 127.0.0.1)
+[2026-11-02 09:27:13] CHAT: Kyuu_Katzuki: a
+[2026-11-02 09:28:34] start: Requested by Console
+[2026-11-02 09:28:34] Resource 'vehicles' changed, reloading and starting
+[2026-11-02 09:28:34] Starting vehicles
+[2026-11-02 09:28:34] start: Resource 'vehicles' started
+[2026-11-02 09:31:51] QUIT: Kyuu_Katzuki left the game [Quit] 
